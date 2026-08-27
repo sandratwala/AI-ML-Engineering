@@ -13,7 +13,7 @@ An engineering-focused workspace demonstrating optimized feature pipelines, robu
 
 ---
 
-##  Repository Layout
+## Repository Layout
 
 ```text
 ├── titanic.csv               # Baseline target raw dataset
