@@ -1,9 +1,5 @@
 # Titanic Training: End-to-End Data Pipeline
 
-[![Python 3.10+](https://shields.io)](https://python.org)
-[![Pandas](https://shields.io)](https://pydata.org)
-[![Scikit-Learn](https://shields.io)](https://scikit-learn.org)
-
 An engineering-focused workspace demonstrating optimized feature pipelines, robust data cleaning, targeted imputation loops, and predictive classification modeling on the Titanic passenger dataset.
 
 ---
@@ -28,7 +24,7 @@ An engineering-focused workspace demonstrating optimized feature pipelines, robu
 
 ---
 
-## 🛠️ Step-by-Step Architecture
+##  Step-by-Step Architecture
 
 ### 1. Diagnostics & File Auditing
 Leverages host environment tools (`os.getcwd()`) to construct rigid relative path strings and validates dataset properties using memory footprint summaries (`.info()`).
